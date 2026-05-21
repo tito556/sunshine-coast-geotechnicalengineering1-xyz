@@ -11,5 +11,10 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ]
+  ],
+  "lang": "en",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "description": "Professional geotechnical services in Sunshine Coast, Australia. Soil studies, testing and technical consulting.",
+  "id": "/sunshine-coast-5105"
 }
